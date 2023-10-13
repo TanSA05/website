@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Taneea S Agrawaal</title>
+        <link>http://example.org/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>taneea@cs.toronto.edu (Taneea S Agrawaal)</managingEditor>
+            <webMaster>taneea@cs.toronto.edu (Taneea S Agrawaal)</webMaster><lastBuildDate>Wed, 27 Sep 2023 13:44:53 -0400</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Stay Tuned!</title>
+    <link>http://example.org/posts/first-post/</link>
+    <pubDate>Wed, 27 Sep 2023 13:44:53 -0400</pubDate>
+    <author>Taneea S Agrawaal</author>
+    <guid>http://example.org/posts/first-post/</guid>
+    <description><![CDATA[Coming soon!]]></description>
+</item>
+</channel>
+</rss>
