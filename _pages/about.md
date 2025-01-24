@@ -19,5 +19,3 @@ January 2024: Named the Department of Computer Science Wolfond Fellow this year!
 January 2024: I'm serving as the Art and Demos Co-Chair for [ACM COMPASS 2025](https://compass.acm.org/). Cfp open. See you in Toronto this summer!
 
 October 2024: I'll be co-organizing and presenting my research at the Ontario Climate Risk Workshop!
-
-</em>
