@@ -1,0 +1,12 @@
+---
+title: '' 
+collection: publications
+category: conferences
+permalink: 
+excerpt: ''
+date: 24-01-2025 
+venue: ''
+paperurl: ''
+slidesurl: ''
+citation: '<em> (To Appear in TOCHI 2025) Robert Soden, <strong>Taneea S Agrawaal</strong>, Austin Lord, Cassandra Chanen, Lillian Flawn, Zeina Seaifan, Michael Classens, Steve Easterbrook. Climate Data Practices: A Research Approach for HCI and Climate Justice. In Proceedings of the TOCHI.'
+---
