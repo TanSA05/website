@@ -11,7 +11,7 @@ I'm a PhD student in the Department of Computer Science at University of Toronto
 
 My research envisions a human-centered approach to climate data, risk and modeling that expands contemporary climate technologies to be more place-based and environmentally just. I hope to contribute to this vision by unpacking the complexities of environmental information infrastructures, and shifting attention to the sociotechnical practices that both enact and shape the politics and possibilities of climate action. I use a range of HCI methodologies like critical, speculative, and participatory design in my research. 
 
-**Research Interests**: Human Computer Interaction (HCI), Critical Computing, Climate Risk Modeling, Climate Change, Climate Services, Critical Data Studies, Digital Interaction
+**Research Interests**: Human Computer Interaction (HCI), Climate Change, Climate Informatics, Climate Risk, Critical Computing, Critical Data Studies, Digital Interaction
 
 ## Recent News
 January 2024: Named the Department of Computer Science Wolfond Fellow this year!
