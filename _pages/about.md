@@ -14,8 +14,8 @@ My research envisions a human-centered approach to climate data, risk and modeli
 **Research Interests**: Human Computer Interaction (HCI), Climate Change, Climate Informatics, Climate Risk, Critical Computing, Critical Data Studies, Digital Interaction
 
 ## Recent News
-January 2024: Named the Department of Computer Science Wolfond Fellow this year!
+July 2025: I'll be attending and presenting at [ACM COMPASS 2025](https://compass.acm.org/) next week. If you're attending and want to connect, please reach out!
 
-January 2024: I'm serving as the Art and Demos Co-Chair for [ACM COMPASS 2025](https://compass.acm.org/). Cfp open. See you in Toronto this summer!
+January 2025: Named the Department of Computer Science Wolfond Fellow this year!
 
-October 2024: I'll be co-organizing and presenting my research at the Ontario Climate Risk Workshop!
+January 2025: I'm serving as the Art and Demos Co-Chair for [ACM COMPASS 2025](https://compass.acm.org/). Cfp open. See you in Toronto this summer!
